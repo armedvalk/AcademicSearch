@@ -1,2 +1,4 @@
-# AcademicSearchEngine
-This is a Python Built, Cross Platform, Academic Paper Search application
+# BibleGoogle
+This is a Python Built, Cross Platform, Bible Search engine.
+---
+
