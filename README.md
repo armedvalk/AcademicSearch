@@ -1,4 +1,4 @@
-# BibleGoogle
-This is a Python Built, Cross Platform, Bible Search engine.
+# AcademicSearch
+This search engine is built on the OpenAlex library, it provides a local UI system that works on any OS. 
 ---
 
